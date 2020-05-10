@@ -11,8 +11,8 @@
 
 3 - Modélisation avec Scikit Learn
 
-    Traitement de données text en Spark si on fait du NLP
-    Utilisation de Scikit Learn sur Spark ?
+    Traitement de données text en Spark (NLP)
+    Utilisation de Scikit Learn sur Spark
 
 4 - API ML avec Flask sur une VM Linux
 
